@@ -1,0 +1,114 @@
+---
+title: "Description of measures"
+---
+
+After consultation with the experts and the literature we reduced the overall list of certification options to 21 interventions, categorized into 5 groups. *For each of these, the growers/producers/producer groups would be responsible for implementation.* The descriptions for each measure are provided below.
+
+## 1. Land-use diversification
+### 1.1. Buffer zone
+
+Buffer zone certification measures would require that banana plantations include vegetative buffers at the edges of cropped fields. In this measure growers are required to maintain existing riparian buffer zones around aquatic ecosystems, bodies of water and watershed recharge areas and between production and areas of high conservation value, either protected or not. Pesticides, hazardous chemicals and fertilizers are not applied. The buffer zones could be covered with grass, shrubs, trees or a mix of vegetation [@McKergow2004Grass]. Buffer zones provide mainly ecological benefits such as preventing chemical runoff and drift [@McKergow2004Grass] and act as biodiversity corridors [@Ducros2003Field-Based]. The implementation of buffer zones may be costly and also have trade-offs with the banana yield (area sacrificed to buffer zones). The practice of agroforestry in the buffer areas may provide a successful management strategy for both environmental and economic benefits [@Rahman2014Contrasting]. 
+
+
+### 1.2. Conversion of unproductive land
+
+In this certification measure banana growers would convert unproductive sites into conservation areas where viable. They would develop a map that includes natural ecosystems and agroforestry canopy cover or border plantings with estimated vegetation coverage and estimated percentage of native species composition and progressively increase or restore native vegetation adjacent to aquatic ecosystems, farmed areas of marginal productivity and around housing and infrastructure. This could include live fences, shade trees and permanent agroforestry systems. Our models assumed that the unused land areas are likely to be a rather small portion of the total plantation land. There will be economic benefits from other harvest (e.g. from the agroforestry system) and ecological benefits such as increasing farm biodiversity. 
+
+
+## 2. Energy use
+### 2.1. Energy use plan
+
+With this measure banana producers would be required to keep track of the energy consumption and explore the options to reduce environmental impacts and costs associated with the non-renewable energy use. Within the banana production system, energy sources such as fossil fuel and electricity are mainly used in packing plants (e.g. lighting, water supply and conveyor belt) and to extract water for irrigation and to operate within-plantation transportation systems. 
+
+
+### 2.2. Energy equipment
+
+With this measure banana growers would select and invest in energy-efficient equipment where possible and maintain it for optimum energy consumption. This measure could help to reduce the energy consumption in the production system and lower energy costs. The measure could also reduce overall emissions due to lower fossil fuel combustion. 
+
+
+### 2.3. Solar energy 
+
+This certification measure requires that producers reduce the use of non-renewable energies and offset or replace them with solar energy. According to experts, solar may already be feasible (cost effective) in some banana plantations in Latin America but is not yet a widely available option.
+
+
+### 2.4. Other renewable energy sources
+
+This certification measure requires that producers reduce the use of non-renewable energies and offset or replace them with biomass energy. In this certification measure organic wastes from banana production are used for generating power on the plantation. The biomass used for energy generation can be costly and resource intensive (water, soil, synthesized inputs, energy etc.). Efficient technologies to make this practicable may not be widely available (i.e. cost effectiveness may be an issue). 
+
+
+## 3. Water use
+### 3.1. Wastewater reuse
+
+Packing bananas, which uses a lot of water, is done daily during the harvest season. This certification measure requires that producers collect and re-use this water for irrigation. However, the wastewater from packing plants is prone to risks of salinity, phytotoxicity and other contaminants which can affect banana plants, soil and water ecosystems. In addition, wastewater from banana processing contains latexes that might impact soils and the banana fields. Proper treatment before using for irrigation is needed. The measure may reduce the risk of water shortage for irrigation but may incur additional costs for water treatment.
+
+
+### 3.2. Water reservoir
+
+This certification measure requires the construction of reservoirs to collect rainwater and store water for dry periods. This can help to reduce risks of water shortage for production and at the same time reduce the impact of high rain intensity (i.e. surface runoff and waterlogging) during heavy rain events. The water storage also reduces ground water withdrawal, which may have a positive impact on aquatic ecosystems. The reservoirs can be trenches that are dug along plantation contours to keep water around the cultivated areas. The costs involved could be mainly labor and basic construction materials for digging and maintaining the trenches. The trade-off could be less land available for banana production. 
+
+
+### 3.3. Anti-evapotranspiration spray
+
+This certification measure requires the use of organic anti-evapotranspiration substances to reduce water evapotranspiration and increase water use efficiency of bananas. The use of anti-transpirant in combination with appropriate irrigated regimes can reduce the total amount of irrigated water during the growing season [@El-Kader2006Effect]. However, in high rainfall regions the use of organic foliar spray against evapotranspiration may be less relevant than in low rainfall regions. It could suppress banana growth and development by reducing photosynthesis. Methods such as mulching and ground cover may be more effective in managing evaporation from the soil surface. 
+
+
+### 3.4. Irrigation methods 
+
+With this certification measure banana growers would improve irrigation methods. Improved irrigation can increase both water-use efficiency and yield. According to experts, under canopy single- and series-sprinkler irrigation systems are the most common irrigation techniques for large scale banana production. Experts agree that this is a highly efficient method. Furrow irrigation, flood irrigation are common but are considered low efficiency. Drip irrigation is also applied on some plantations and could perform well in semi-arid areas where availability of water is low. 
+
+
+### 3.5. Irrigation scheduling
+
+Irrigation scheduling requires the calculation of crop water requirement, crop water demand at different growth stages, soil moisture, evapotranspiration rate, among other water use factors [@Panigrahi2019Automatic]. Certification requirements for irrigation scheduling could provide synchrony of water needed and the quantity of water supplied which, in turn, could enhance irrigation efficiency and reduce water waste [@Israeli1985Efficiency; @Panigrahi2021Identifying]. 
+
+
+### 3.6. Drainage management
+
+With this certification measure managers would be required to design drainage systems based on the biophysical characteristics of the plantation such as soil type and structure, water system, slope and ground cover to improve farm drainage capacity. They would also identify erosion prone areas, areas with high risk of flooding and those with poor drainage conditions. According to experts, open systems with water channels along the banana plots are common. These perform sufficiently to avoid waterlogging. A good drainage system will help to reduce the risk of waterlogging which may be critical in high rainfall regions. 
+
+
+## 4. Plant nutrient and pest management
+
+### 4.1. Composting
+
+With this certification measure banana growers would make compost from farm plant residues and use compost and green fertilizers as a source of plant nutrients. This may reduce the cost for chemical fertilizers. Farmers can combine compost with other sources of nutrients, which has been proved to contribute to increase the yield of crops [@Bekunda1996Organic; @Ouédraogo2001Use]. Application of compost can increase soil fertility and microbial activities as well as enhance the water holding capacity of sandy soil. Composting requires low cost of inputs such as plant materials, animal manures that can be found around the plantation. However, the practice may require more labor in the process of making compost. 
+
+
+### 4.2. Nutrient management
+
+This measure would require farmers to apply nutrient management practices based on assessments of crop needs, regular monitoring of soil fertility and crop nutrient status, or recommendations from local agronomic experts. Regular soil tests and leaf tests including macro- and micro-nutrients and organic matter would be carried out frequently. Management practices such as choosing appropriate nutrient doses, forms and sources as well as deciding on the right time and method of application may help farmers to reduce chemical fertilizer used without compromising the yield [@Israeli1985Efficiency; @Keshavan2011Influence; @Lobell2007cost; @Wairegi2010agronomic]. The proper management of fertilizer application, especially nitrogen, could mitigate greenhouse gas (i.e. nitrous oxide - N2O and nitric oxide - NO) emission [@Masters2019Nitrous; @Rowlings2013Influence; @Veldkamp1997Nitrogen]. The synchronization of fertilizer application and crop demand could minimize chemical residues in drinking water and aquatic ecosystems [@Henriques1997Agrochemical; @Stover1986Disease; @Svensson2018Assessing]. 
+
+
+### 4.3. Integrated Pest Management (IPM)
+
+This measure requires that banana growers to develop an integrated pest management (IPM) plan and follow regulations on sprays of pesticides. They would implement various IPM activities that could reduce the incidence and intensity of pest attacks, and thereby reduce the need for chemical intervention. Growers would also take part in training on integrated pest management including monitoring of pests and diseases, alternative ways to control pests and diseases, preventive measures against pests and diseases, measures to avoid buildup of pest and disease resistance to pesticides. They keep a list of the pesticides with names of active ingredients, crops on which the pesticides were used and the targeted pests. The implementation could help to reduce chemicals used which will decrease production costs and emissions from chemical manufacturing, as well as avoid economic losses due to pest incidence. The production systems with reduced pesticide application could also have less negative impacts on human and wildlife (e.g. acute toxicity) [@Henriques1997Agrochemical] and local biodiversity. 
+
+
+### 4.4. Reincorporate crop residues
+
+With this certification measure banana growers would be required to use organic waste from their farm production for mulching. The banana residue would be retained in the field. This could also contribute to reducing organic waste from the plantation and increase soil cover to prevent runoff. Mulching may also to increase banana yields. As it was the case with mulching, in combination with mineral fertilizers, in banana plantations in Uganda [@Wairegi2010agronomic].
+
+### 4.5. Cover crops
+
+With this measure banana farmers would plant cover crops to avoid bare soils, reduce erosion and weed infestation. The ground cover could reduce nutrient losses from leaching (cover crop as catch crop) and mitigate greenhouse gas emission [@Abdalla2019critical; @Lavigne2012How]. However, planting cover crops incurs costs for establishing and maintaining the vegetation. There is also a chance that cover crops will compete for resources with cash crops which may affect the yield [@Abdalla2019critical; @Lavigne2012How].
+
+
+## 5. Waste management
+
+### 5.1. Recycling plastic
+
+This certification measure would require banana farmers to collect plastic used in the farm and send it to plastic recyclers. The practice may incur small labor cost for gathering and compacting used plastic materials. Plastic recycling will mainly have ecological benefits for both terrestrial and aquatic ecosystems.
+
+
+### 5.2. Waste disposal plan
+
+The commercial banana plantations face a challenge managing their waste, particularly plastic waste used to protect the plant during its growing period and solid waste used in the packing plant for post-harvest [@Russo1995Environmental]. The banana producer therefore needs a concrete management plan for proper disposal of those undesired by-products. This certification measure would require farmers to calculate and record types and amounts of waste from different units of the production process for identifying the potential measures for waste treatments. 
+
+### 5.3. Plastic reduction
+
+This certification measure would require banana growers to reduce plastic use by using a continuous polyethylene tube instead of the standard pre-cut impregnated plastic bags to protect banana bunches. It is possible to minimize plastic use by fitting the tube to the exact length of the bunches. This method can increase labor costs when using the replacement plastics. However, it also helps reduce plastics purchased, thus reducing production costs, plastics produced as well as environmental impacts on land, water bodies and human habitats.
+
+### 5.4. Plastic re-use
+
+This certification measure would require banana farmers to re-use plastics, such as the protecting bags and plastic twine for holding up banana plants. The measure incurs an increased labor cost to collect and treat the bags again before reuse. Plastic reuse may reduce production costs and reduce plastic waste, which will contribute to both economic and environmental benefits.
+
