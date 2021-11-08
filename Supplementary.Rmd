@@ -131,7 +131,7 @@ We developed a general function that estimates costs, benefits, risk reduction a
 
 Later, we applied this function to all certification measures using the specific information we gathered for each.The ultimate aim was to get a list of the measures that influence adaptation, mitigation and environmental outcomes (see `return()` list at the end of the `certification_measures_function.R` in https://github.com/CWWhitney/Certification_Prioritization).
 
-After coding the impact pathways we performed a Monte Carlo simulation with the `mcSimulation()` function from `decisionSupport`. This function generates a distribution representing the desired outputs (see `return()` function above) by calculating random draws in our defined `certification_measures_function()`. Inside this simulation we use a generalized function called `certification_impact()` to establish the possible impacts of each measure.
+After coding the impact pathways we performed a Monte Carlo simulation with the `mcSimulation()` function from `decisionSupport` [@R-decisionSupport]. This function generates a distribution representing the desired outputs (see `return()` function above) by calculating random draws in our defined `certification_measures_function()`. Inside this simulation we use a generalized function called `certification_impact()` to establish the possible impacts of each measure.
 
 ```{r mcSimulation, warning=FALSE, size="huge", eval=FALSE}
 source("certification_measures_function.R")
@@ -146,10 +146,10 @@ certification_measures_simulation <- mcSimulation(
 
 # Supplementary figures
 ## Figure S1
-In Fig. S1 we show the detailed impact pathway representing the potential underlying relationships between the certification measures and the farm productive (i.e. adaptation aspect). For the measures in the Energy group, we estimated a decline in energy consumption as well as a positive impact on implementation costs. The relationships within the remaining groups were more complex. For instance, our model suggest salinity as a potential driver for banana yields in case wastewater is used for irrigation (Fig. S1). Similar intermediate variables affecting the productivity of the farm can be identified in our impact pathway.
+In Fig. S1 we show the detailed impact pathway representing the potential underlying relationships between the certification measures and the farm productivity (i.e. adaptation aspect). For the measures in the Energy group, we estimated a decline in energy consumption as well as a positive impact on implementation costs. The relationships within the remaining groups were more complex. For instance, our model suggests salinity as a potential driver for banana yields in case wastewater is used for irrigation (Fig. S1). Similar intermediate variables affecting the productivity of the farm can be identified in our impact pathway.
 
 ## Figure S2
-In Fig. S2 we show the detailed impact pathway representing the potential underlying relationships between the certification measures and global warming potential and ecological aspects. For global warming, we identified fossil fuel consumption as a driver of greenhouse gas emission (Fig. S2). In the case of ecological aspects, we identified a number of variables modulating the impact on the environment. Among them, soil salinity, water supply capacity, overland flow, organic matter and fertilizer and pesticide use could be key determinant for measures' impacts in this regard (Fig. S2).
+In Fig. S2 we show the detailed impact pathway representing the potential underlying relationships between the certification measures and global warming potential and ecological aspects. For global warming, we identified fossil fuel consumption as a driver of greenhouse gas emission (Fig. S2). In the case of ecological aspects, we identified a number of variables modulating the impact on the environment. Among them, soil salinity, water supply capacity, overland flow, organic matter and fertilizer and pesticide use could be key determinants for the measures' impacts in this regard (Fig. S2).
 
 \newpage
 \begin{landscape}
