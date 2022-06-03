@@ -1,7 +1,8 @@
 ---
 title: "Supplementary materials for 'Prioritizing certification interventions to improve climate change adaptation and mitigation outcomes - a case study for banana plantations'"
-author: Eduardo Fernandez, Hoa Do, Eike Luedeling, Thi Thu Giang Luu and Cory Whitney 
-date: Department of Horticultural Sciences, Institute of Crop Science and Resource Conservation (INRES), University of Bonn, 53121 Bonn, Germany
+author: Eduardo Fernandez^a,b^, Hoa Do^a^, Eike Luedeling^a^, Thi Thu Giang Luu^a^ and Cory Whitney^a^[^*] 
+date: ^a^ Department of Horticultural Science, Institute of Crop Science and Resource Conservation (INRES), Auf dem Hügel 6, D-53121 Bonn, Germany  \newline
+      ^b^ Escuela de Agronomía, Pontificia Universidad Católica de Valparaíso, Casilla 4-D, Quillota, Chile
 geometry: margin=2cm
 output: 
   pdf_document: default
@@ -47,6 +48,8 @@ knitr::write_bib(c(.packages(),
                    'decisionSupport'), 'bib/packages.bib')
 
 ```
+
+[^*]: Dr. Cory Whitney (cory.whitney@uni-bonn.de)
 
 # Introduction
 
