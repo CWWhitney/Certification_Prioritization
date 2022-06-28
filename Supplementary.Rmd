@@ -14,7 +14,7 @@ header-includes:
   \usepackage{fancyhdr}
   \pagestyle{fancy}
   \fancyhead[R]{Prioritizing certification interventions}
-  \fancyhead[L]{Fernandez et al. (XX)}
+  \fancyhead[L]{Fernandez et al. (2022)}
   \usepackage{pdfpages}
   \usepackage{pdflscape}
   \renewcommand{\figurename}{Figure S}
@@ -53,7 +53,7 @@ knitr::write_bib(c(.packages(),
 
 # Introduction
 
-In the following document, we offer supplementary information on the materials and methods as well as the results of the work 'Prioritizing certification interventions to improve climate change adaptation and mitigation outcomes - a case study for banana plantations' by Fernandez et al. *(XXX)*. The work is published in the journal *XXXX* under the doi: *XXXX*. As mentioned in the main text, all scripts and analyses are available in a public repository hosted at: https://github.com/CWWhitney/Certification_Prioritization. 
+In the following document, we offer supplementary information on the materials and methods as well as the results of the work 'Prioritizing certification interventions to improve climate change adaptation and mitigation outcomes - a case study for banana plantations' by Fernandez et al. (2022). The work is published in the journal Agronomy for Sustainable Development under the doi: *XXXX*. As mentioned in the main text, all scripts and analyses are available in a public repository hosted at: https://github.com/CWWhitney/Certification_Prioritization. 
 
 # Annex 1: List of measures
 
@@ -72,7 +72,7 @@ inputs <- inputs[, c(3, 5, 7, 2)]
 inputs$lower <- format(inputs$lower, scientific = FALSE)
 inputs$upper <- format(inputs$upper, scientific = FALSE)
 
-kableExtra::kable(inputs[1 : 25, ], format = "latex", booktabs = T, escape = T,
+kableExtra::kable(inputs[1 : 24, ], format = "latex", booktabs = T, escape = T,
                   caption = "Estimates of inputs provided to the decision model") %>% 
   kableExtra::kable_styling(full_width = T, latex_options = "HOLD_position") %>% 
   kableExtra::column_spec(column = c(1 : 4), width = c("8cm", "1.4cm", "1.4cm", "5.6cm"))
@@ -80,7 +80,7 @@ kableExtra::kable(inputs[1 : 25, ], format = "latex", booktabs = T, escape = T,
 
 \newpage
 ```{r input_table_2, fig.pos="H", message=FALSE, echo=FALSE, warning = FALSE}
-inputs_2 <- inputs[26 : 51, ]
+inputs_2 <- inputs[25 : 50, ]
 inputs_2$lower <- format(inputs_2$lower, scientific = FALSE)
 kableExtra::kable(inputs_2, format = "latex", booktabs = T, escape = T, digits = 4) %>% 
   kableExtra::kable_styling(full_width = T) %>% 
@@ -89,7 +89,7 @@ kableExtra::kable(inputs_2, format = "latex", booktabs = T, escape = T, digits =
 
 \newpage
 ```{r input_table_3, fig.pos="H", message=FALSE, echo=FALSE, warning = FALSE}
-inputs_3 <- inputs[52 : 78, ]
+inputs_3 <- inputs[51 : 77, ]
 inputs_3$lower <- format(inputs_3$lower, scientific = FALSE)
 
 kableExtra::kable(inputs_3, format = "latex", booktabs = T, escape = T, digits = 4) %>% 
@@ -99,7 +99,7 @@ kableExtra::kable(inputs_3, format = "latex", booktabs = T, escape = T, digits =
 
 \newpage
 ```{r input_table_4, fig.pos="H", message=FALSE, echo=FALSE, warning = FALSE}
-inputs_4 <- inputs[79 : 100, ]
+inputs_4 <- inputs[78 : 99, ]
 inputs_4$lower <- format(inputs_4$lower, scientific = FALSE)
 
 kableExtra::kable(inputs_4, format = "latex", booktabs = T, escape = T, digits = 4) %>% 
@@ -109,7 +109,7 @@ kableExtra::kable(inputs_4, format = "latex", booktabs = T, escape = T, digits =
 
 \newpage
 ```{r input_table_5, fig.pos="H", message=FALSE, echo=FALSE, warning = FALSE, }
-inputs_5 <- inputs[101 : 121, ]
+inputs_5 <- inputs[100 : 122, ]
 inputs_5$lower <- format(inputs_5$lower, scientific = FALSE)
 
 kableExtra::kable(inputs_5, format = "latex", booktabs = T, escape = T, digits = 4) %>% 
@@ -119,7 +119,7 @@ kableExtra::kable(inputs_5, format = "latex", booktabs = T, escape = T, digits =
 
 \newpage
 ```{r input_table_6, fig.pos="H", message=FALSE, echo=FALSE, warning = FALSE, }
-inputs_6 <- inputs[122 : 132, ]
+inputs_6 <- inputs[123 : 132, ]
 inputs_6$lower <- format(inputs_6$lower, scientific = FALSE)
 
 kableExtra::kable(inputs_6, format = "latex", booktabs = T, escape = T, digits = 4) %>%
