@@ -53,7 +53,7 @@ knitr::write_bib(c(.packages(),
 
 # Introduction
 
-In the following document, we offer supplementary information on the materials and methods as well as the results of the work 'Prioritizing certification interventions to improve climate change adaptation and mitigation outcomes - a case study for banana plantations' by Fernandez et al. (2022). The work is published in the journal Agronomy for Sustainable Development under the doi: *XXXX*. As mentioned in the main text, all scripts and analyses are available in a public repository hosted at: https://github.com/CWWhitney/Certification_Prioritization. 
+In the following document, we offer supplementary information on the materials and methods as well as the results of the work 'Prioritizing certification interventions to improve climate change adaptation and mitigation outcomes - a case study for banana plantations' by Fernandez et al. (2022). The work is published in the journal Agronomy for Sustainable Development under the doi: [10.1007/s13593-022-00809-0](https://doi.org/10.1007/s13593-022-00809-0). As mentioned in the main text, all scripts and analyses are available in a public repository hosted at: https://github.com/CWWhitney/Certification_Prioritization. 
 
 # Annex 1: List of measures
 
